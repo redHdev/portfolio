@@ -67,7 +67,7 @@ function Home2() {
             <ul className="!justify-center pt-[15px] inline-block relative">
               <li className="inline-block pr-[15px] pl-[15px]">
                 <a
-                  href="https://github.com/soumyajit4419"
+                  href="https://github.com/redHdev"
                   target="_blank"
                   rel="noreferrer"
                   className="text-Main_color relative inline-block w-[40px] h-[40px] text-center pt-[2px] pl-[2px] text-[2.2em] leading-[2em] bg-white rounded-[1em] duration-[0.5s]"
@@ -77,7 +77,7 @@ function Home2() {
               </li>
               <li className="inline-block pr-[15px] pl-[15px]">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://twitter.com/redHdev"
                   target="_blank"
                   rel="noreferrer"
                   className="text-Main_color relative inline-block w-[40px] h-[40px] text-center pt-[2px] pl-[2px] text-[2.2em] leading-[2em] bg-white rounded-[1em] duration-[0.5s]"
@@ -87,7 +87,7 @@ function Home2() {
               </li>
               <li className="inline-block pr-[15px] pl-[15px]">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/redHdev/"
                   target="_blank"
                   rel="noreferrer"
                   className="text-Main_color relative inline-block w-[40px] h-[40px] text-center pt-[5px] pl-[6px] text-[1.8em] leading-[2em] bg-white rounded-[1em] duration-[0.5s]"
@@ -97,7 +97,7 @@ function Home2() {
               </li>
               <li className="inline-block pr-[15px] pl-[15px]">
                 <a
-                  href="https://www.instagram.com/soumyajit4419"
+                  href="https://www.instagram.com/redHdev"
                   target="_blank"
                   rel="noreferrer"
                   className="text-Main_color relative inline-block w-[40px] h-[40px] text-center pt-[2px] pl-[2px] text-[2.2em] leading-[2em] bg-white rounded-[1em] duration-[0.5s]"
