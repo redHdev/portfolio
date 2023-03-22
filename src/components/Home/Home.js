@@ -22,7 +22,7 @@ function Home() {
 
               <h1 className="text-[2.5em] pl-[45px]">
                 I'M
-                <strong className="text-Main_color"> DENE MACK</strong>
+                <strong className="text-Main_color"> DENE MARK</strong>
               </h1>
 
               <div className = "p-[50px] text-left">

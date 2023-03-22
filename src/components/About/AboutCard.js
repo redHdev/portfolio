@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p className = "text-justify">
-            Hi !, I'm <span className="text-Main_color">Dene Mack </span>
+            Hi !, I'm <span className="text-Main_color">Dene Mark </span>
             from <span className="text-Main_color"> Richmond, British Columbia, Canada.</span>
             <br />
             <br />I'm a full-stack engineer +8 years specializing in web and mobile development, learning all aspects of the language from prototype inheritance, closure, modern & classic architecture design patterns, and performance improvements.
