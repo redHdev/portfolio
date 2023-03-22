@@ -73,7 +73,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="inline-block pr-[15px] pl-[15px]">
+              {/* <li className="inline-block pr-[15px] pl-[15px]">
                 <a
                   href="https://twitter.com/redHdev"
                   target="_blank"
@@ -102,7 +102,7 @@ function Home2() {
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>

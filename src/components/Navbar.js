@@ -94,7 +94,7 @@ function NavBar() {
             </Nav.Item>
             <Nav.Item className="text-[1.1em] pt-[17px]">
               <Button
-                href="https://github.com/soumyajit4419/Portfolio"
+                href="https://github.com/redHdev/portfolio"
                 target="_blank"
                 className="leading-[1.4em] bg-[#934cce5e] px-[0.25em] py-[1.1em] align-center"
               >
